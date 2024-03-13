@@ -2,12 +2,6 @@
 
 This is a **BETA** version.
 
-The App in steel in development
-
-
-
-
-
 Keyboard and Mouse Inputs Simulator
 
 
